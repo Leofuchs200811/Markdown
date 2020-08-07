@@ -1,51 +1,50 @@
 # Manual de Markdown
 # Instruções
-# () ou [] = substituir
+() ou [] = substituir
 ---
 
 # Texto
 
-# = Título
+# # = Título
 ---
-# ** ou __ = negrito
+** ou __ = negrito
 ---
-# * ou _ = itálico
+* ou _ = itálico
 ---
-# ~~ = texto riscado
+~~ = texto riscado
 ---
-# --- ou *** = linha
+--- ou *** = linha
 ---
 
 # Lista
 
-# (número). = Lista numerada
-# se a lista tiver três espaços, então o número vai ser uma sub-lista
+(número). = Lista numerada
+se a lista tiver três espaços, então o número vai ser uma sub-lista
 ---
-# * ou - = lista demarcada
-# (essa lista segue a mesma regra da lista numerada)
+* ou - = lista demarcada
+(essa lista segue a mesma regra da lista numerada)
 ---
-# - [] = lista de tarefas
+- [] = lista de tarefas
 ---
- # Num | Nome | Nota
- # ---|---|---                         
- # 1  | Leo | 10 = tabela
+Num | Nome | Nota
+---|---|---                         
+1  | Leo | 10 = tabela
 
-# Mídia
+Mídia
 
-# ![nome da imagem] (link da imagem) = imagem
+![nome da imagem] (link da imagem) = imagem
 ---
-# [nome do link] (link) = link em palavra
+[nome do link] (link) = link em palavra
 ---
-# :(nome do emoji em inglês) = emoji
+:(nome do emoji em inglês) = emoji
 
 # Código
+--- 
+`(comando)` = comando em uma linha de código
+```(comando)``` = comando para múltiplas linhas de código
 ---
-# 
-# `(comando)` = comando em uma linha de código
-# ```(comando)``` = comando para múltiplas linhas de código
----
-# @ = Mencionar
+@ = Mencionar
 ---
 # # = Mencionar Issues
 ---
-# > = Citar Alguém
+> = Citar Alguém
