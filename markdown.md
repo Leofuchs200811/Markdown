@@ -47,4 +47,4 @@ Mídia
 ---
 # # = Mencionar Issues
 ---
-> = Citar Alguém
+# > = Citar Alguém
