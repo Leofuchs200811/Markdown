@@ -25,6 +25,7 @@
 # (essa lista segue a mesma regra da lista numerada)
 ---
 # - [] = lista de tarefas
+---
  # Num | Nome | Nota
  # ---|---|---                         
  # 1  | Leo | 10 = tabela
