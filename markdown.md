@@ -1,19 +1,19 @@
 # Manual de Markdown
 # Instruções
 () ou [] = substituir
----
 
 # Texto
 
 # # = Título
----
+
 ** ou __ = negrito
----
+
 * ou _ = itálico
----
+
 ~~ = texto riscado
----
+
 --- ou *** = linha
+
 ---
 
 # Lista
@@ -39,12 +39,12 @@ Mídia
 :(nome do emoji em inglês) = emoji
 
 # Código
---- 
+ 
 `(comando)` = comando em uma linha de código
 ```(comando)``` = comando para múltiplas linhas de código
----
+
 @ = Mencionar
----
+
 # # = Mencionar Issues
----
+
 # > = Citar Alguém
