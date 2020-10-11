@@ -47,4 +47,4 @@ Mídia
 ---
 # # = Mencionar Issues
 ---
-# > = Citar uma mensagem
+# > = Citar alguma(s) mensagem(ns)
